@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "docopulae",
+    "oncran": true
+  }
+]
